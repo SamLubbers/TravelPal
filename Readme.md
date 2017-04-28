@@ -1,3 +1,5 @@
+**IMPORTANT: A large proprtion of the code on this github repository is not developed by us, but it is instead code created by Facebook and which is necessary in any React Native application in order to compile React Native to Android and iOS. It is possible to identify which code is developed by our group and which is not by comparing our application with a test application of React Native, which should also contain the necessary code for the building of React Native applications**
+
 # Running TravelPal
 _*NOTE*:It is much easier to run application on iOS. React Native was originally built for iOS and has only recently been included for android so you may run into issues when trying to run it especially for the first time as it requires several specific installations_
 
