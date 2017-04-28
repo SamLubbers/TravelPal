@@ -1,0 +1,41 @@
+{
+  "name": "TPShare",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "engine.io-client": "*",
+    "net": "^1.0.2",
+    "normalize.css": "^5.0.0",
+    "react": "*",
+    "react-addons-css-transition-group": "*",
+    "react-dom": "*",
+    "react-native": "0.41.2",
+    "react-native-action-button": "^2.6.9",
+    "react-native-autocomplete": "^0.3.0",
+    "react-native-autocomplete-input": "*",
+    "react-native-banner": "^0.1.0",
+    "react-native-calendar-box": "0.0.3",
+    "react-native-socketio": "^0.3.0",
+    "react-native-vector-icons": "^4.0.1",
+    "react-shapes": "^0.1.0",
+    "react-toolbox": "^2.0.0-beta.6",
+    "socket.io": "^1.7.3",
+    "socket.io-client": "*"
+  },
+  "devDependencies": {
+    "babel-jest": "18.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "18.1.0",
+    "net": "^1.0.2",
+    "react": "^15.4.2",
+    "react-test-renderer": "15.4.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
